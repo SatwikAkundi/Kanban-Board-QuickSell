@@ -52,7 +52,7 @@ The Kanban board is designed to be responsive and visually engaging, following t
 Contributions to the development of this Kanban board application are welcome. Feel free to report issues or submit pull requests.
 
 ## Live Link to Access
-
+https://kanban-board-quick-sell-six.vercel.app/?vercelToolbarCode=f4Pj49FBBmvv-NM
 ## License
 
 This project is licensed under the MIT License. Please see the [LICENSE](LICENSE) file for more information.
